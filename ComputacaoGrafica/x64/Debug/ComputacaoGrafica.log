@@ -1,0 +1,9 @@
+﻿  ComputacaoGrafica.cpp
+C:\Users\erick\OneDrive\Documentos\Programas\TrabalhoM1ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(96,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\erick\OneDrive\Documentos\Programas\TrabalhoM1ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(97,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\erick\OneDrive\Documentos\Programas\TrabalhoM1ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(98,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\erick\OneDrive\Documentos\Programas\TrabalhoM1ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(48,14): warning C4101: 'z': unreferenced local variable
+C:\Users\erick\OneDrive\Documentos\Programas\TrabalhoM1ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(48,11): warning C4101: 'y': unreferenced local variable
+C:\Users\erick\OneDrive\Documentos\Programas\TrabalhoM1ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(48,8): warning C4101: 'x': unreferenced local variable
+  ComputacaoGrafica.vcxproj -> C:\Users\erick\OneDrive\Documentos\Programas\TrabalhoM1ComputacaoGrafica\ComputacaoGrafica\x64\Debug\ComputacaoGrafica.exe
+          1 arquivo(s) copiado(s).
